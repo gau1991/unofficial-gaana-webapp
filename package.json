@@ -1,27 +1,26 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "unofficial-gaana-webapp",
+  "version": "0.0.1",
+  "description": "Unofficial Gaana.com WebApp",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron/electron-quick-start.git"
+    "url": "git+https://github.com/gau1991/unofficial-gaana-webapp.git"
   },
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial"
+    "music",
+    "gaana.com",
+    "gaana"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "gau1991",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/electron/electron-quick-start/issues"
+    "url": "https://github.com/gau1991/unofficial-gaana-webapp/issues"
   },
-  "homepage": "https://github.com/electron/electron-quick-start#readme",
+  "homepage": "https://github.com/gau1991/unofficial-gaana-webapp",
   "devDependencies": {
     "electron-prebuilt": "^1.2.0"
   }
